@@ -58,7 +58,7 @@ This structure keeps the code modular and easy to maintain.
 Below are some screenshots showcasing the look and feel of the **Spiano** app:
 
 ### 🎹 Home Screen  
-<img src="./assets/screenshots/screenshot_1.png" alt="Home Screen" width="400" />           
+<img src="./assets/screenshots/screenshot_1.png" alt="Home Screen" width="300" />           
    
 ## 🔧 How It Works
 The **Spiano** app simulates a vertical piano layout using a combination of white and black keys. Here's a brief explanation of how the logic works:
